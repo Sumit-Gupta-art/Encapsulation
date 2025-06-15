@@ -1,4 +1,4 @@
- class atm
+    class atm
 {
     private  double balance=452.67;
     public  double getBalance()
